@@ -37,13 +37,15 @@ I thrive on solving real-world challenges — from detecting deepfakes to contro
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya5191&show_icons=true&hide_border=true)
 
 ---
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya5191/Aditya5191/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya5191/Aditya5191/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aditya5191/Aditya5191/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 ###  Connect with me
 
