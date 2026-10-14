@@ -1,7 +1,7 @@
 # Hey, I'm Aditya 👋
 
 <p align="center">
-  <img width="100%" alt="Aditya's GitHub Banner" src="https://github.com/user-attachments/assets/0aac8eb6-f9a3-4619-8760-56f834e72d7e" />
+  <img width="100%" alt="Aditya's GitHub Banner" src="https://github.com/Aditya5191/Aditya5191/blob/main/Banner%20(2).png" />
 </p>
 
 I'm a Computer Science (AI) undergraduate at **Manipal Institute of Technology, Bengaluru**, building at the intersection of **artificial intelligence, autonomous robotics, and systems engineering**.
