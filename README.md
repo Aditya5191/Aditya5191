@@ -75,14 +75,23 @@ Accepted at the NeurIPS 2026 Workshop on Foundations of Language Model Security 
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya5191&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya5191&layout=compact&hide_border=true" alt="Most used languages" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Aditya5191&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+       alt="GitHub statistics" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya5191&layout=compact&hide_border=true&theme=github_dark"
+       alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya5191/Aditya5191/output/pacman-contribution-graph.svg" alt="GitHub contribution graph" width="100%" />
+  <img
+       src="https://raw.githubusercontent.com/Aditya5191/Aditya5191/output/pacman-contribution-graph-dark.svg"
+       alt="GitHub contribution graph"
+       width="100%" />
 </p>
+
 
 ---
 
